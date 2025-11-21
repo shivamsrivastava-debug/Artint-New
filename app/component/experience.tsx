@@ -1,12 +1,13 @@
 
-
 function Experience() {
   return (
-    <div className="h-screen pt-40" id="experience">
-            <h1>The experience</h1>
+    <div className="pt-40">
+            <h1 className="h-screen text-4xl">Hello world</h1>          
     </div>
   );
 }
 
 
-export default Experience;
+export default Experience
+
+
